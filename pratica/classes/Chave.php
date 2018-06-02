@@ -2,7 +2,7 @@
 
     Class Chave{
         var $tipo = 'automóvel';
-        var $alarme = true;
+        var $alarme = false;
         var $cor = 'preta';
         var $chaveiro = true;
         var $emUso = false;
