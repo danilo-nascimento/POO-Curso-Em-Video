@@ -11,15 +11,18 @@
         function usar(){
             $this->emUso = true;
             $this->guardada = false;
+            echo "<p>Usando chave...</p>";
         }
 
         function guardar(){
             $this->emUso = false;
             $this->guardada = true;
+            echo "<p>Guardando chave...</p>";
         }
 
         function ligarAlarme(){
             $this->emUso = true;
+            echo "<p>Alarme Ligado</p>";
         }
 
         function adicionarChaveiro(){
