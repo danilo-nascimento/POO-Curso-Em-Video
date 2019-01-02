@@ -1,4 +1,4 @@
-# Curso em Vídeo - POO em PHP
+# Curso em Vídeo - POO em PHP - Agora trocado
 
 ## Curso POO Teoria 01a – O que é Programação Orientada a Objetos   
 
@@ -56,6 +56,8 @@
 
 ## Curso POO PHP – 14b – Projeto Final em PHP (Parte 1)     
 
-## Curso POO conceito – 15a – Exercícios de POO (Parte 3)   
+## Curso POO conceito – 15a – Exercícios de POO (Parte 3)   - Troquei
+
+### Adicionei para testes
 
 ## Curso POO PHP – 15b – Projeto Final em PHP (Parte 2)
